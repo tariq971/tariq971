@@ -1,11 +1,11 @@
 <h1 align="center">Muhammad Tariq</h1>
 <br>
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=27A9F5&center=true&vCenter=true&width=1100&lines=Computer+Science+Student;Aspiring+AI+%26+Machine+Learning+Engineer;Data+Science+Explorer;Python+Developer;Building+intelligent+solutions+through+code,+data,+and+continuous+learning+%F0%9F%9A%80" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=27A9F5&center=true&vCenter=true&width=1100&lines=Computer+Science;Aspiring+AI+%26+Machine+Learning+Engineer;Data+Science+Explorer;Python+Developer;Building+intelligent+solutions+through+code,+data,+and+continuous+learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
-
+<br>
 <p align="center">
-<b>Computer Science Student | AI & Machine Learning Enthusiast | Data Science Explorer | Python Developer | Building intelligent solutions through code, data, and continuous learning. 🚀</b>
+<b>AI & Machine Learning Engineer | Data Science Explorer | Python Developer | Building intelligent solutions through code, data, and continuous learning. 🚀</b>
 </p>
 
 <p align="center">
