@@ -28,6 +28,7 @@ I'm a Computer Science undergraduate with a strong passion for **Artificial Inte
 
 My learning journey focuses on building projects that strengthen my understanding of machine learning algorithms, deep learning, data preprocessing, feature engineering, model evaluation, and deployment. I believe the best way to learn is by building, experimenting, and continuously improving.
 
+- 🎓 COMSATS University Islamabad
 - 🎓 Bachelor of Science in Computer Science (2022 – 2026)
 - 🤖 Aspiring AI & Machine Learning Engineer
 - 📊 Passionate about Data Science and Predictive Analytics
