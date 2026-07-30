@@ -157,7 +157,11 @@ If you're working on something exciting in AI or Data Science, I'd love to conne
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tariq971&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tariq971&theme=dark&hide_border=true" width="48%" />
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tariq971&theme=dark&hide_border=true" width="70%" />
+</p>
+ 
 </p>
 
 <p align="center">
